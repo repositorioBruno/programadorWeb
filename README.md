@@ -1,2 +1,2 @@
 # programadorWeb
-Repositório de aulas - Programador Web - SENAC
+Repositório de aulas - Programador Web
